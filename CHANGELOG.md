@@ -1,4 +1,7 @@
 # Changelog
+## [v1.2.0](https://github.com/UAL-RE/LD-Cool-P/tree/v1.1.9) (2023-05-09)
+
+**Full Changelog**: https://github.com/zoidy/LD-Cool-P/compare/v1.1.9...v1.2.0
 
 ## [v1.1.9](https://github.com/UAL-RE/LD-Cool-P/tree/v1.1.9) (2023-05-09)
 
