@@ -30,7 +30,7 @@ body:
       - label: Update `ldcoolp/__init__.py`
       - label: Update `requirements.txt` (if needed)
       - label: Update `README.md` (if needed)
- - type: checkboxes
+  - type: checkboxes
     id: pr
     attributes:
       label: Pull request
